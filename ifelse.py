@@ -6,3 +6,4 @@ if var3>var2:
      print("greater")
 else:
      print("lesser")
+
